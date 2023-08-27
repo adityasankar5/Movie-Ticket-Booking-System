@@ -1,9 +1,6 @@
 /* Movie Ticket Booking System
-OODP Mini Project / 1st year Semester-2 / CSE-BD / Z-1 section
+Object Oriented Design Principles Mini Project / 1st year Semester-2 / CSE-BD / Z-1 section
 Adityasankar Sengupta RA2211027010053
-Harshit Rustagi RA2211027010010
-Aditya Singh Khichi RA2211027010063
-Ayush Panwar RA2211027010041
 */
 #include <iostream>
 #include <string>
